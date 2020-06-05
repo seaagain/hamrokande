@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hamro Kande</string>
+    <string name="hamro_kande">Hamro Kande</string>
+    <string name="about">about</string>
+    <string name="discover">discover</string>
+    <string name="around">around</string>
+    <string name="gallery">gallery</string>
+    <string name="getthere">getthere</string>
+    <string name="food">food</string>
+    <string name="welcome">welcome</string>
+    <string name="aboutParagraph">Kande is a heavenly place which is a centre point for all the travellers,hikers,nature lovers. Geographically located on the top of
+        beautiful Himalayas and surrounded by the heart throbbing green hills, it is a place to visit. \n\n Kande is the place to start your trekking adventure through the
+        dense forest , local villages where you will be heartily welcomed by the people and the beautiful nature itself. The approximate elevation of Kande is 1718m / 5636feet.
+                    </string>
+    <string name="discoverParagraph">Kande is a must place to visit and discover the place more closely with the locals. During the winter season, this place is very much
+        crowded with a lot of people from around nearby places for the picnic. Because of the beautiful landscape view, easy transport, good weather, and a spacious place
+        to enjoy the picnic, people come here to enjoy.  \n\n Kande is a hub for visitors to get to their destinations like Australia Base Camp, Tolks, Pothana, Dhampus,
+        Panchase and many other popular places. </string>
+    <string name="aroundParagraph">Kande is a place of multi culture races, ethnicity. Despite of having a diverse culture, people still have close harmony amongst them.
+        Visitors can have good leisure time in and around Kande. \n\n Buddhist Monastery \n Kande Baraha Temple \n Kande Picnic spots \n Nepal Agricultural Research Centre \n
+        Panchase \n Route to ABC \n Community Schools</string>
+    <string name="getThereParagraph">Getting to Kande is relatively easy and can be reached in around Thrity minutes of ride by motorbike or take taxi or public buses.
+        Kande is just 30kms west of Pokhara. Since Kande is on high altitude, it gets colder when you reach Kande, so warm jackets or warmer is recommended. On the way
+        to Kande, you can enjoy the beautiful sceenery of the nature. \n\n Have a Safe Journey </string>
+    <string name="foodParagraph">Kande is a beautiful place to visit and people here very friendly and welcoming. You can taste a variety of local food at the local eateries.
+        Local dried meat known as Sukuti is a popular dish to eat. You can eat organic rice, chiceken, Ghee, lentils and traditionally distilled local spirit/alcohol known as
+        Raksee.</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
